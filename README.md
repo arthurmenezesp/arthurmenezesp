@@ -1,6 +1,6 @@
 ### Olá 👋
 
-</b>Aluno do curso de técnico de informática.</b>.
+</b>Aluno do curso técnico de informática.</b>
 
 <hr>
 
