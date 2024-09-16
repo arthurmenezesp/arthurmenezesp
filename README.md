@@ -10,10 +10,6 @@
 - <b>Versionamento:</b> Git e Azure Repos DevOps
 - <b>Banco de Dados:</b> SQL Server e Oracle
 
-
-
-Para conhecer mais sobre as linguagens, ferramentas e frameworks basta clicar nos ícones abaixo:
-
 <!--
 
 Atualmente adquirindo novas skills com foco em desenvolvimento de sistemas em C# e .NET
