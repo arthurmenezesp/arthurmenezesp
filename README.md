@@ -1,6 +1,8 @@
 _Atualmente aluno do curso técnico de informática do **SENAI**, Ipatinga/MG_
-<sub>Unidades Curriculares
-<sup>Concluídas:
+
+# Unidades Curriculares
+
+## Concluídas:
      (x)Lógica da programação
-<sup>Em progresso:
+## Em progresso:
      (x)Projeto de interface Web
