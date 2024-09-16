@@ -1,3 +1,5 @@
+##Olá 👋
+
 _Atualmente aluno do curso técnico de informática do **SENAI**, Ipatinga/MG_
 
 # **Unidades Curriculares**
